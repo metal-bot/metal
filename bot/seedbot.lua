@@ -241,7 +241,7 @@ function create_config( )
     about_text = [[ELT v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-@elt_bot1
+telegram.me/elt_bot1
 
 Our team!
 Alphonse (@Iwals)
